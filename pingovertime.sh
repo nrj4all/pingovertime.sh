@@ -1,5 +1,4 @@
 #!/bin/bash
-# AUTHOR:		Philip Dombrowski
 # DESCRIPTION:	Check and log if a host is reachable by ping
 
 # DEFAULT CONFIGURATION
